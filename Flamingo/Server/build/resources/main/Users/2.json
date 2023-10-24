@@ -1,0 +1,50 @@
+{
+  "id" : 2,
+  "username" : "q",
+  "password" : "q",
+  "name" : "q",
+  "email" : "q",
+  "phoneNumber" : "",
+  "birthday" : null,
+  "bio" : "",
+  "lastSeenType" : "EVERYONE",
+  "lastSeen" : " 05:03",
+  "profilePhotoPath" : "src\\main\\resources\\image\\no-image-icon.png",
+  "statues" : "OFFLINE",
+  "contacts" : [ 1 ],
+  "followings" : [ ],
+  "followers" : [ 1 ],
+  "blackList" : [ ],
+  "muteList" : [ ],
+  "receivedRequests" : [ 1 ],
+  "sentRequests" : { },
+  "groups" : [ ],
+  "chats" : [ ],
+  "myTweets" : [ ],
+  "private" : true,
+  "systemNotification" : [ {
+    "message" : "@a has followed you",
+    "time" : "2021/08/22 12:38"
+  }, {
+    "message" : "@a has followed you",
+    "time" : "2021/08/22 01:05"
+  }, {
+    "message" : "@a has unFollowed you",
+    "time" : "2021/08/22 01:12"
+  }, {
+    "message" : "@a has followed you",
+    "time" : "2021/08/22 01:12"
+  }, {
+    "message" : "@a has unFollowed you",
+    "time" : "2021/08/22 01:12"
+  }, {
+    "message" : "@a has unFollowed you",
+    "time" : "2021/08/22 01:12"
+  }, {
+    "message" : "@a has followed you",
+    "time" : "2021/08/22 04:59"
+  }, {
+    "message" : "@a has requested to follow you",
+    "time" : "2021/08/22 05:04"
+  } ]
+}

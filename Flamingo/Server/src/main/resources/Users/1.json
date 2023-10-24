@@ -1,0 +1,31 @@
+{
+  "id" : 1,
+  "username" : "a",
+  "password" : "a",
+  "name" : "a",
+  "email" : "a",
+  "phoneNumber" : "",
+  "birthday" : null,
+  "bio" : "",
+  "lastSeenType" : "EVERYONE",
+  "lastSeen" : " 05:13",
+  "profilePhotoPath" : "src\\main\\resources\\image\\no-image-icon.png",
+  "statues" : "OFFLINE",
+  "contacts" : [ 2 ],
+  "followings" : [ 2 ],
+  "followers" : [ ],
+  "blackList" : [ ],
+  "muteList" : [ ],
+  "receivedRequests" : [ ],
+  "sentRequests" : {
+    "2" : "ACCEPTED"
+  },
+  "groups" : [ ],
+  "chats" : [ ],
+  "myTweets" : [ 0 ],
+  "private" : false,
+  "systemNotification" : [ {
+    "message" : "@q has unFollowed you",
+    "time" : "2021/08/22 05:13"
+  } ]
+}

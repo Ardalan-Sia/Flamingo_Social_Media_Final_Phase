@@ -1,0 +1,28 @@
+{
+  "id" : 1,
+  "username" : "a",
+  "password" : "a",
+  "name" : "a",
+  "email" : "a",
+  "phoneNumber" : "",
+  "birthday" : null,
+  "bio" : "",
+  "lastSeenType" : "EVERYONE",
+  "lastSeen" : "ONLINE",
+  "profilePhotoPath" : "src\\main\\resources\\image\\no-image-icon.png",
+  "statues" : "ONLINE",
+  "contacts" : [ 2 ],
+  "followings" : [ ],
+  "followers" : [ ],
+  "blackList" : [ ],
+  "muteList" : [ ],
+  "receivedRequests" : [ ],
+  "sentRequests" : {
+    "2" : "SENT"
+  },
+  "groups" : [ ],
+  "chats" : [ ],
+  "myTweets" : [ 0 ],
+  "private" : false,
+  "systemNotification" : [ ]
+}

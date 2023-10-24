@@ -1,0 +1,11 @@
+{
+  "createAt" : null,
+  "id" : 0,
+  "body" : "sadasdasdasdasd",
+  "ownerId" : 1,
+  "photoPath" : "",
+  "comments" : [ ],
+  "likes" : [ ],
+  "time" : "2021/08/22 03:59",
+  "notAllowed" : false
+}
